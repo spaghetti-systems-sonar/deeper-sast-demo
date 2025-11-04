@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>deeper-sast-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>DashboardManager</name>
+    <name>Deeper SAST demo</name>
     <description>deeper-sast-demo</description>
     <properties>
         <java.version>17</java.version>
